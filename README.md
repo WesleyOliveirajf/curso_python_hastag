@@ -22,6 +22,13 @@ jupyter notebook
 
 ## 📝 Como fazer commits
 
+### Método Fácil (Recomendado)
+Use o script auxiliar:
+```bash
+./commit.sh "Sua mensagem de commit aqui"
+```
+
+### Método Manual
 Para adicionar novos arquivos e atualizar o repositório:
 
 ```bash
